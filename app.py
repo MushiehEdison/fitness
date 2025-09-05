@@ -26,7 +26,7 @@ login_manager = LoginManager(app)
 login_manager.login_view = 'auth'
 
 # WhatsApp contact number (without + sign, include country code)
-WHATSAPP_NUMBER = "237600223344"  # Replace with your actual WhatsApp business number
+WHATSAPP_NUMBER = "237652523818"  # Replace with your actual WhatsApp business number
 
 # Database Models
 class User(UserMixin, db.Model):
